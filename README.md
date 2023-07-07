@@ -29,7 +29,6 @@ Also here if you want to see my portofolio [website](https://web-portofolio-ten.
     <img src="https://skillicons.dev/icons?i=next,git,tailwindcss,python,mysql,mongodb,laravel,linux&perline=3" />
   </a>
 </p>
-<br>
 
 <h3 align="center">
     Top Languages
