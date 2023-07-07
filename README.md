@@ -26,7 +26,7 @@ Also here if you want to see my portofolio [website](https://web-portofolio-ten.
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=next,git,tailwindcss,python,mysql,mongodb,laravel,linux&perline=3" />
+    <img src="https://skillicons.dev/icons?i=next,git,tailwindcss,python,mysql,mongodb,laravel,linux&perline=5" />
   </a>
 </p>
 
