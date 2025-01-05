@@ -1,8 +1,4 @@
 # Welcome to my github profile!
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/4Ro7NtWWB0zi8/giphy.gif" width="100"/>
-</div>
-<br>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ihsanul-afkar-876229218">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -16,7 +12,7 @@
 My name is Muhammad Ihsanul Afkar. Currently, i'm undergraduate in Information Technology ITS University. <br>
 Excited in both **Front-end** and **Back-end** web developer. I do other thing like python project for mostly college task and CTF for my hobbies. <br>
 
-Also here if you want to see my portofolio [website](https://web-portofolio-ten.vercel.app)
+Also here is my portofolio [website](https://ihsanul-afkar.vercel.app/)
    
 ## Others
 
